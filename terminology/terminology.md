@@ -3,14 +3,16 @@
 A placeholder to define common methods of defining globally-used terms within the Controls Assessment Specification.
 
 *INPUTS*
-* EI: Current hardware inventory; 1.4
-* ASL: Authorized software list; 2.1
-* SCE: Software-capable endpoints; derived from 1.4
-* SI: Software Inventory
-* SCS: Enterprise security configuraiton standards
-* KS: "Key systems" (potentially interpreted as "critical systems"); 10.2
-* BDI: Boundary device inventory; 12.1
-* CS: Organization's information classification scheme
+*NOTE* We decided to use the _expanded_ form of the term throughout the document rather than the abbreviated version of the term.
+* Endpoint Inventory: Current hardware inventory wich includes physical and virtual resources; 1.4
+* Authorized Software List: List of software approved for use in the enterprise; 2.1
+* Software-capable Endpoints: The set of endpoints found in the Endpoint Inventory capable of running installed software; derived from 1.4
+* Software Inventory: An inventory of all software instances installed in the enterprise; 2.4
+* Security Configuration Standards: Enterprise security configuration standards; 5.1
+* Key Systems: "Key systems" (potentially interpreted as "critical systems"); 10.2
+* Boundary Device Inventory: An invenotry of devices defining enterprise network boundaries, derived from the Endpoint Inventory; 12.1
+* Classification Scheme: The organization's information classification scheme (derived from 13.1 - Maintain an Inventory of Sensitive Information)
+* Sensitive Information Inventory: The enterprise inventory of sensitive data; 13.1
 
 *NOTATION*
 *
