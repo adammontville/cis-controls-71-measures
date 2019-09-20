@@ -13,6 +13,7 @@ A placeholder to define common methods of defining globally-used terms within th
 * Boundary Device Inventory: An invenotry of devices defining enterprise network boundaries, derived from the Endpoint Inventory; 12.1
 * Classification Scheme: The organization's information classification scheme (derived from 13.1 - Maintain an Inventory of Sensitive Information)
 * Sensitive Information Inventory: The enterprise inventory of sensitive data; 13.1
+* Incident Response Plan: The enterprise policy governing incident response; 19.1
 
 *NOTATION*
 *
